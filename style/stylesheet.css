@@ -1,0 +1,25 @@
+#blue {
+  color: #3467eb;
+}
+#green {
+  color: #55eb34;
+}
+#orange {
+  color: #eb8634;
+}
+#pink {
+  color: #eb34d8;
+}
+#purple {
+  color: #7134eb;
+}
+#red {
+  color: #eb4034;
+}
+#yellow {
+  color: #ebc934;
+}
+
+.colors{
+    font-weight: normal;
+}
